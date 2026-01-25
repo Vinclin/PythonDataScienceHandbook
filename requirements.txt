@@ -2,8 +2,8 @@ numpy==2.4.1
 pandas==3.0.0
 scipy==0.17.1
 scikit-learn==1.5.0
+pillow==12.1.0
 scikit-image==0.26.0
-pillow==10.3.0
 matplotlib==1.5.1
 seaborn==0.13.2
 jupyter
